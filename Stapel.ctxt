@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Stapel
+comment1.params=
+comment1.target=Stapel()
+comment2.params=dneu
+comment2.target=void\ push(Datenelement)
+comment3.params=
+comment3.target=Datenelement\ pop()
+numComments=4
